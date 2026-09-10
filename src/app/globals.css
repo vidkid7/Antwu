@@ -2878,8 +2878,8 @@ h1, h2, h3 { text-wrap: balance; }
 .footer-legal a:hover, .footer-legal a:focus-visible { color: #fff; }
 .footer-credit { display: inline-flex; align-items: center; gap: 9px; color: #b9c8c4; font-size: 10px; letter-spacing: .07em; text-transform: uppercase; }
 .footer-credit:hover, .footer-credit:focus-visible { color: #fff; }
-.footer-credit-logo { display: inline-grid; place-items: center; flex: 0 0 auto; width: 132px; height: 48px; padding: 5px 9px; overflow: hidden; border-radius: 7px; background: #fff; transition: transform 180ms ease, box-shadow 180ms ease; }
-.footer-credit-logo img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.footer-credit-logo { display: inline-grid; place-items: center; flex: 0 0 auto; width: 164px; height: 72px; padding: 7px 10px 9px; overflow: hidden; border-radius: 7px; background: #fff; transition: transform 180ms ease, box-shadow 180ms ease; }
+.footer-credit-logo img { display: block; width: 100%; height: auto; max-height: calc(100% - 16px); object-fit: contain; }
 .footer-credit:hover .footer-credit-logo, .footer-credit:focus-visible .footer-credit-logo { transform: translateY(-2px); box-shadow: 0 5px 14px rgba(0,0,0,.18); }
 @media (max-width: 760px) {
   .faq-item summary { grid-template-columns: 33px minmax(0, 1fr) 30px; gap: 10px; padding: 18px 0; }
