@@ -1,0 +1,26 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123F46"/><stop offset="1" stop-color="#47B8C9"/></linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#B3D5D0"/><stop offset="1" stop-color="#48646A"/></linearGradient>
+    <filter id="grain"><feTurbulence baseFrequency=".7" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .08"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <path d="M0 470 188 260l127 102 152-175 176 191 155-140 402 260v402H0V470Z" fill="#DDF1ED" opacity=".95"/>
+  <path d="M0 560c196-83 348-62 533 20 220 97 419 66 667-72v392H0V560Z" fill="url(#road)"/>
+  <path d="M495 900c30-180 62-292 128-424 34-66 66-107 81-113 32 22 75 120 97 226 22 102 42 215 55 311H495Z" fill="#244F57" opacity=".94"/>
+  <path d="M611 900c14-143 30-263 56-379 9-40 26-114 37-126 16 14 33 92 42 133 27 121 44 241 58 372H611Z" fill="#F4B36A" opacity=".9"/>
+  <g filter="url(#grain)">
+    <rect x="98" y="232" width="254" height="185" rx="18" fill="#E65A45"/>
+    <rect x="124" y="262" width="202" height="97" rx="9" fill="#0E3B43"/>
+    <rect x="140" y="276" width="76" height="64" rx="6" fill="#B9E3DE"/>
+    <rect x="234" y="276" width="76" height="64" rx="6" fill="#80D0D2"/>
+    <circle cx="151" cy="424" r="28" fill="#0E3B43"/><circle cx="300" cy="424" r="28" fill="#0E3B43"/>
+    <path d="M120 387h210" stroke="#FFE2B6" stroke-width="12"/>
+    <circle cx="820" cy="406" r="70" fill="#E65A45" opacity=".9"/>
+    <path d="M765 638c9-119 22-196 56-250 28-44 66-55 96-21 39 45 52 142 63 271H765Z" fill="#0E3B43"/>
+    <path d="M822 407c-14 35-10 71 5 93 22 30 67 23 87-6 14-21 19-65 2-91-20-29-77-29-94 4Z" fill="#C46C4C"/>
+    <path d="M795 381c31-45 93-50 129-4l-18 29c-37-21-70-24-104 4l-7-29Z" fill="#112F35"/>
+    <path d="M826 713h26l-3 187h-42l19-187Zm82 0h25l38 187h-43l-20-187Z" fill="#153E46"/>
+  </g>
+  <path d="M0 52h1200M0 94h1200M72 0v900M1115 0v900" stroke="#DDF1ED" opacity=".18"/>
+</svg>

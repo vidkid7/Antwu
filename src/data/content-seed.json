@@ -1,0 +1,2960 @@
+{
+  "committeeMembers": [
+    {
+      "id": "central-001",
+      "name": {
+        "en": "Dipak K.C",
+        "ne": "Dipak K.C"
+      },
+      "role": {
+        "en": "Chairperson",
+        "ne": "अध्यक्ष"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851094073",
+      "status": "Published",
+      "order": 1
+    },
+    {
+      "id": "central-002",
+      "name": {
+        "en": "Sundar K.C",
+        "ne": "Sundar K.C"
+      },
+      "role": {
+        "en": "Senior Vice President",
+        "ne": "वरिष्ठ उपाध्यक्ष"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851246196",
+      "status": "Published",
+      "order": 2
+    },
+    {
+      "id": "central-003",
+      "name": {
+        "en": "Kumari Shah",
+        "ne": "Kumari Shah"
+      },
+      "role": {
+        "en": "Vice President",
+        "ne": "उपाध्यक्ष"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841699924",
+      "status": "Published",
+      "order": 3
+    },
+    {
+      "id": "central-004",
+      "name": {
+        "en": "Lila Pradhan",
+        "ne": "Lila Pradhan"
+      },
+      "role": {
+        "en": "Vice President",
+        "ne": "उपाध्यक्ष"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9852062915",
+      "status": "Published",
+      "order": 4
+    },
+    {
+      "id": "central-005",
+      "name": {
+        "en": "Sarad Babu Subedi",
+        "ne": "Sarad Babu Subedi"
+      },
+      "role": {
+        "en": "General Secretary",
+        "ne": "महासचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851145815",
+      "status": "Published",
+      "order": 5
+    },
+    {
+      "id": "central-006",
+      "name": {
+        "en": "Bisnu Gurung",
+        "ne": "Bisnu Gurung"
+      },
+      "role": {
+        "en": "Deputy General Secretary",
+        "ne": "उपमहासचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851054649",
+      "status": "Published",
+      "order": 6
+    },
+    {
+      "id": "central-007",
+      "name": {
+        "en": "Jaya K.C",
+        "ne": "Jaya K.C"
+      },
+      "role": {
+        "en": "Deputy General Secretary",
+        "ne": "उपमहासचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841108794",
+      "status": "Published",
+      "order": 7
+    },
+    {
+      "id": "central-008",
+      "name": {
+        "en": "Ghansham Dhagi",
+        "ne": "Ghansham Dhagi"
+      },
+      "role": {
+        "en": "Deputy General Secretary",
+        "ne": "उपमहासचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9857822548",
+      "status": "Published",
+      "order": 8
+    },
+    {
+      "id": "central-009",
+      "name": {
+        "en": "Suryavakta Paudal",
+        "ne": "Suryavakta Paudal"
+      },
+      "role": {
+        "en": "Secretary",
+        "ne": "सचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9846093653",
+      "status": "Published",
+      "order": 9
+    },
+    {
+      "id": "central-010",
+      "name": {
+        "en": "Januka Gautam",
+        "ne": "Januka Gautam"
+      },
+      "role": {
+        "en": "Secretary",
+        "ne": "सचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9844252405",
+      "status": "Published",
+      "order": 10
+    },
+    {
+      "id": "central-011",
+      "name": {
+        "en": "Ranganath Timalsina",
+        "ne": "Ranganath Timalsina"
+      },
+      "role": {
+        "en": "Secretary",
+        "ne": "सचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9802777788",
+      "status": "Published",
+      "order": 11
+    },
+    {
+      "id": "central-012",
+      "name": {
+        "en": "Dil Bahadur Nepali",
+        "ne": "Dil Bahadur Nepali"
+      },
+      "role": {
+        "en": "Secretary",
+        "ne": "सचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9858053567",
+      "status": "Published",
+      "order": 12
+    },
+    {
+      "id": "central-013",
+      "name": {
+        "en": "Hari Neraula",
+        "ne": "Hari Neraula"
+      },
+      "role": {
+        "en": "Secretary",
+        "ne": "सचिव"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9814947104",
+      "status": "Published",
+      "order": 13
+    },
+    {
+      "id": "central-014",
+      "name": {
+        "en": "Lokmani Khatiwoda",
+        "ne": "Lokmani Khatiwoda"
+      },
+      "role": {
+        "en": "Treasurer",
+        "ne": "कोषाध्यक्ष"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849101292",
+      "status": "Published",
+      "order": 14
+    },
+    {
+      "id": "central-015",
+      "name": {
+        "en": "Sanath Upradi",
+        "ne": "Sanath Upradi"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849867016",
+      "status": "Published",
+      "order": 15
+    },
+    {
+      "id": "central-016",
+      "name": {
+        "en": "Surya Tamang",
+        "ne": "Surya Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851097376",
+      "status": "Published",
+      "order": 16
+    },
+    {
+      "id": "central-017",
+      "name": {
+        "en": "Narbahadur Ranamagar",
+        "ne": "Narbahadur Ranamagar"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841775753",
+      "status": "Published",
+      "order": 17
+    },
+    {
+      "id": "central-018",
+      "name": {
+        "en": "J.B Karki",
+        "ne": "J.B Karki"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851059081",
+      "status": "Published",
+      "order": 18
+    },
+    {
+      "id": "central-019",
+      "name": {
+        "en": "Ramesh Koirala",
+        "ne": "Ramesh Koirala"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9846151584",
+      "status": "Published",
+      "order": 19
+    },
+    {
+      "id": "central-020",
+      "name": {
+        "en": "Dilbahadur Mirching",
+        "ne": "Dilbahadur Mirching"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9843101018",
+      "status": "Published",
+      "order": 20
+    },
+    {
+      "id": "central-021",
+      "name": {
+        "en": "Kamal Pokral",
+        "ne": "Kamal Pokral"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841428102",
+      "status": "Published",
+      "order": 21
+    },
+    {
+      "id": "central-022",
+      "name": {
+        "en": "Durga Shrestha",
+        "ne": "Durga Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851034969",
+      "status": "Published",
+      "order": 22
+    },
+    {
+      "id": "central-023",
+      "name": {
+        "en": "Ramesh Gurung",
+        "ne": "Ramesh Gurung"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851006125",
+      "status": "Published",
+      "order": 23
+    },
+    {
+      "id": "central-024",
+      "name": {
+        "en": "Sadhuram Maharjan",
+        "ne": "Sadhuram Maharjan"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851000121",
+      "status": "Published",
+      "order": 24
+    },
+    {
+      "id": "central-025",
+      "name": {
+        "en": "Raju Shrestha",
+        "ne": "Raju Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9855054948",
+      "status": "Published",
+      "order": 25
+    },
+    {
+      "id": "central-026",
+      "name": {
+        "en": "Nabina Khadka",
+        "ne": "Nabina Khadka"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841582853",
+      "status": "Published",
+      "order": 26
+    },
+    {
+      "id": "central-027",
+      "name": {
+        "en": "Khil Prashad Dangal",
+        "ne": "Khil Prashad Dangal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841309597",
+      "status": "Published",
+      "order": 27
+    },
+    {
+      "id": "central-028",
+      "name": {
+        "en": "Rabindra Bhupal Pradhan",
+        "ne": "Rabindra Bhupal Pradhan"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851048838",
+      "status": "Published",
+      "order": 28
+    },
+    {
+      "id": "central-029",
+      "name": {
+        "en": "Mahes Khadka",
+        "ne": "Mahes Khadka"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851003556",
+      "status": "Published",
+      "order": 29
+    },
+    {
+      "id": "central-030",
+      "name": {
+        "en": "Prem Moktan",
+        "ne": "Prem Moktan"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9855028453",
+      "status": "Published",
+      "order": 30
+    },
+    {
+      "id": "central-031",
+      "name": {
+        "en": "Tej Bahadur Khadka",
+        "ne": "Tej Bahadur Khadka"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 31
+    },
+    {
+      "id": "central-032",
+      "name": {
+        "en": "Arjun Paudal",
+        "ne": "Arjun Paudal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9856088160",
+      "status": "Published",
+      "order": 32
+    },
+    {
+      "id": "central-033",
+      "name": {
+        "en": "Vojraj Archarya",
+        "ne": "Vojraj Archarya"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9856023331",
+      "status": "Published",
+      "order": 33
+    },
+    {
+      "id": "central-034",
+      "name": {
+        "en": "Harka Maji",
+        "ne": "Harka Maji"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849056104",
+      "status": "Published",
+      "order": 34
+    },
+    {
+      "id": "central-035",
+      "name": {
+        "en": "Ramkumar Shrestha",
+        "ne": "Ramkumar Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841092237",
+      "status": "Published",
+      "order": 35
+    },
+    {
+      "id": "central-036",
+      "name": {
+        "en": "Ramsaran Timalsina",
+        "ne": "Ramsaran Timalsina"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851129951",
+      "status": "Published",
+      "order": 36
+    },
+    {
+      "id": "central-037",
+      "name": {
+        "en": "Mankumari Shrestha",
+        "ne": "Mankumari Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9840742312",
+      "status": "Published",
+      "order": 37
+    },
+    {
+      "id": "central-038",
+      "name": {
+        "en": "Bimala Karki",
+        "ne": "Bimala Karki"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9863252530",
+      "status": "Published",
+      "order": 38
+    },
+    {
+      "id": "central-039",
+      "name": {
+        "en": "Kapil Nepali",
+        "ne": "Kapil Nepali"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9856070281",
+      "status": "Published",
+      "order": 39
+    },
+    {
+      "id": "central-040",
+      "name": {
+        "en": "Gopal Limbu",
+        "ne": "Gopal Limbu"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 40
+    },
+    {
+      "id": "central-041",
+      "name": {
+        "en": "Udaya B.Ka",
+        "ne": "Udaya B.Ka"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9847941065",
+      "status": "Published",
+      "order": 41
+    },
+    {
+      "id": "central-042",
+      "name": {
+        "en": "Bisnu G.C",
+        "ne": "Bisnu G.C"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9812960360",
+      "status": "Published",
+      "order": 42
+    },
+    {
+      "id": "central-043",
+      "name": {
+        "en": "Ramesor Chaudhari",
+        "ne": "Ramesor Chaudhari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 43
+    },
+    {
+      "id": "central-044",
+      "name": {
+        "en": "Hari Dadhel",
+        "ne": "Hari Dadhel"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 44
+    },
+    {
+      "id": "central-045",
+      "name": {
+        "en": "Chabi Prashad Basnet",
+        "ne": "Chabi Prashad Basnet"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "98747833017",
+      "status": "Published",
+      "order": 45
+    },
+    {
+      "id": "central-046",
+      "name": {
+        "en": "Nabin Dahal",
+        "ne": "Nabin Dahal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9857010430",
+      "status": "Published",
+      "order": 46
+    },
+    {
+      "id": "central-047",
+      "name": {
+        "en": "Ramesh Sapkota",
+        "ne": "Ramesh Sapkota"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9846155067",
+      "status": "Published",
+      "order": 47
+    },
+    {
+      "id": "central-048",
+      "name": {
+        "en": "Ram Thapa",
+        "ne": "Ram Thapa"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9846026098",
+      "status": "Published",
+      "order": 48
+    },
+    {
+      "id": "central-049",
+      "name": {
+        "en": "Kumar Gurung",
+        "ne": "Kumar Gurung"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9816623679",
+      "status": "Published",
+      "order": 49
+    },
+    {
+      "id": "central-050",
+      "name": {
+        "en": "Santosh Ghimire",
+        "ne": "Santosh Ghimire"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9845475460",
+      "status": "Published",
+      "order": 50
+    },
+    {
+      "id": "central-051",
+      "name": {
+        "en": "Rabi Thakuri",
+        "ne": "Rabi Thakuri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 51
+    },
+    {
+      "id": "central-052",
+      "name": {
+        "en": "Bhoj Bahadur Gurung",
+        "ne": "Bhoj Bahadur Gurung"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9843293801",
+      "status": "Published",
+      "order": 52
+    },
+    {
+      "id": "central-053",
+      "name": {
+        "en": "Ram Bahadur Tamang",
+        "ne": "Ram Bahadur Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9808638869",
+      "status": "Published",
+      "order": 53
+    },
+    {
+      "id": "central-054",
+      "name": {
+        "en": "Ramesh Prasad Kafle",
+        "ne": "Ramesh Prasad Kafle"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841680170",
+      "status": "Published",
+      "order": 54
+    },
+    {
+      "id": "central-055",
+      "name": {
+        "en": "Ramchandra Yadav",
+        "ne": "Ramchandra Yadav"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9808553930",
+      "status": "Published",
+      "order": 55
+    },
+    {
+      "id": "central-056",
+      "name": {
+        "en": "Bishal Giri",
+        "ne": "Bishal Giri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9866662550",
+      "status": "Published",
+      "order": 56
+    },
+    {
+      "id": "central-057",
+      "name": {
+        "en": "Shasi Parajuli",
+        "ne": "Shasi Parajuli"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841160339",
+      "status": "Published",
+      "order": 57
+    },
+    {
+      "id": "central-058",
+      "name": {
+        "en": "Krishna Bahadur Dahal",
+        "ne": "Krishna Bahadur Dahal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841160339",
+      "status": "Published",
+      "order": 58
+    },
+    {
+      "id": "central-059",
+      "name": {
+        "en": "Tanka Khatri",
+        "ne": "Tanka Khatri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9843382639",
+      "status": "Published",
+      "order": 59
+    },
+    {
+      "id": "central-060",
+      "name": {
+        "en": "Dev Tamang",
+        "ne": "Dev Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841535053",
+      "status": "Published",
+      "order": 60
+    },
+    {
+      "id": "central-061",
+      "name": {
+        "en": "Baikuntha Pokhral",
+        "ne": "Baikuntha Pokhral"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860403585",
+      "status": "Published",
+      "order": 61
+    },
+    {
+      "id": "central-062",
+      "name": {
+        "en": "Chandra Rana",
+        "ne": "Chandra Rana"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849085479",
+      "status": "Published",
+      "order": 62
+    },
+    {
+      "id": "central-063",
+      "name": {
+        "en": "Namaraj Chaulagain",
+        "ne": "Namaraj Chaulagain"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841937708",
+      "status": "Published",
+      "order": 63
+    },
+    {
+      "id": "central-064",
+      "name": {
+        "en": "Shyam Kumar Thapa",
+        "ne": "Shyam Kumar Thapa"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841027853",
+      "status": "Published",
+      "order": 64
+    },
+    {
+      "id": "central-065",
+      "name": {
+        "en": "Raj Pradhan",
+        "ne": "Raj Pradhan"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851013664",
+      "status": "Published",
+      "order": 65
+    },
+    {
+      "id": "central-066",
+      "name": {
+        "en": "Shrekrisna Khatri",
+        "ne": "Shrekrisna Khatri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851066565",
+      "status": "Published",
+      "order": 66
+    },
+    {
+      "id": "central-067",
+      "name": {
+        "en": "Puskar Bhandari",
+        "ne": "Puskar Bhandari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9844113587",
+      "status": "Published",
+      "order": 67
+    },
+    {
+      "id": "central-068",
+      "name": {
+        "en": "Gobinda Tiwari",
+        "ne": "Gobinda Tiwari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9855017033",
+      "status": "Published",
+      "order": 68
+    },
+    {
+      "id": "central-069",
+      "name": {
+        "en": "Pradip Bhata",
+        "ne": "Pradip Bhata"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841180894",
+      "status": "Published",
+      "order": 69
+    },
+    {
+      "id": "central-070",
+      "name": {
+        "en": "Netra Bahadur Magar",
+        "ne": "Netra Bahadur Magar"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860367956",
+      "status": "Published",
+      "order": 70
+    },
+    {
+      "id": "central-071",
+      "name": {
+        "en": "Ramesh Tamang",
+        "ne": "Ramesh Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849149602",
+      "status": "Published",
+      "order": 71
+    },
+    {
+      "id": "central-072",
+      "name": {
+        "en": "Prakash Adhikari",
+        "ne": "Prakash Adhikari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841256183",
+      "status": "Published",
+      "order": 72
+    },
+    {
+      "id": "central-073",
+      "name": {
+        "en": "Pote Lama",
+        "ne": "Pote Lama"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849043108",
+      "status": "Published",
+      "order": 73
+    },
+    {
+      "id": "central-074",
+      "name": {
+        "en": "Krishna Gautam",
+        "ne": "Krishna Gautam"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841477747",
+      "status": "Published",
+      "order": 74
+    },
+    {
+      "id": "central-075",
+      "name": {
+        "en": "Khadka Bhandari",
+        "ne": "Khadka Bhandari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860483991",
+      "status": "Published",
+      "order": 75
+    },
+    {
+      "id": "central-076",
+      "name": {
+        "en": "Bishesor Kunwor",
+        "ne": "Bishesor Kunwor"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851090602",
+      "status": "Published",
+      "order": 76
+    },
+    {
+      "id": "central-077",
+      "name": {
+        "en": "Laxmi Prasad Rai",
+        "ne": "Laxmi Prasad Rai"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9843594760",
+      "status": "Published",
+      "order": 77
+    },
+    {
+      "id": "central-078",
+      "name": {
+        "en": "Sabita Magar",
+        "ne": "Sabita Magar"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9842214529",
+      "status": "Published",
+      "order": 78
+    },
+    {
+      "id": "central-079",
+      "name": {
+        "en": "Manju Nepali",
+        "ne": "Manju Nepali"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 79
+    },
+    {
+      "id": "central-080",
+      "name": {
+        "en": "Utral Shrestha",
+        "ne": "Utral Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 80
+    },
+    {
+      "id": "central-081",
+      "name": {
+        "en": "Vimsen Shahe",
+        "ne": "Vimsen Shahe"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 81
+    },
+    {
+      "id": "central-082",
+      "name": {
+        "en": "Manju Maghi",
+        "ne": "Manju Maghi"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 82
+    },
+    {
+      "id": "central-083",
+      "name": {
+        "en": "Gun Kasari Khadka",
+        "ne": "Gun Kasari Khadka"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 83
+    },
+    {
+      "id": "central-084",
+      "name": {
+        "en": "Sumitra Rai",
+        "ne": "Sumitra Rai"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860743657",
+      "status": "Published",
+      "order": 84
+    },
+    {
+      "id": "central-085",
+      "name": {
+        "en": "Milan Rai",
+        "ne": "Milan Rai"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9844358807",
+      "status": "Published",
+      "order": 85
+    },
+    {
+      "id": "central-086",
+      "name": {
+        "en": "Yakbahadur Shrestha",
+        "ne": "Yakbahadur Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860030923",
+      "status": "Published",
+      "order": 86
+    },
+    {
+      "id": "central-087",
+      "name": {
+        "en": "Hari Dhungana",
+        "ne": "Hari Dhungana"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841207202",
+      "status": "Published",
+      "order": 87
+    },
+    {
+      "id": "central-088",
+      "name": {
+        "en": "Narayan Gautam",
+        "ne": "Narayan Gautam"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849823615",
+      "status": "Published",
+      "order": 88
+    },
+    {
+      "id": "central-089",
+      "name": {
+        "en": "Badraram Thapa",
+        "ne": "Badraram Thapa"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 89
+    },
+    {
+      "id": "central-090",
+      "name": {
+        "en": "Bharat Subedi",
+        "ne": "Bharat Subedi"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 90
+    },
+    {
+      "id": "central-091",
+      "name": {
+        "en": "Mohan Dasha",
+        "ne": "Mohan Dasha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 91
+    },
+    {
+      "id": "central-092",
+      "name": {
+        "en": "Dyorika Adikari",
+        "ne": "Dyorika Adikari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9841317532",
+      "status": "Published",
+      "order": 92
+    },
+    {
+      "id": "central-093",
+      "name": {
+        "en": "Yam Prasad Paudal",
+        "ne": "Yam Prasad Paudal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9851175564",
+      "status": "Published",
+      "order": 93
+    },
+    {
+      "id": "central-094",
+      "name": {
+        "en": "Pram Lama",
+        "ne": "Pram Lama"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 94
+    },
+    {
+      "id": "central-095",
+      "name": {
+        "en": "Ishwor Bhandari",
+        "ne": "Ishwor Bhandari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9849035025",
+      "status": "Published",
+      "order": 95
+    },
+    {
+      "id": "central-096",
+      "name": {
+        "en": "Raj Kumar Shrestha",
+        "ne": "Raj Kumar Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9860144700",
+      "status": "Published",
+      "order": 96
+    },
+    {
+      "id": "central-097",
+      "name": {
+        "en": "Ramchandra Khatiwoda",
+        "ne": "Ramchandra Khatiwoda"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 97
+    },
+    {
+      "id": "central-098",
+      "name": {
+        "en": "Ramkaji Kunwor",
+        "ne": "Ramkaji Kunwor"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 98
+    },
+    {
+      "id": "central-099",
+      "name": {
+        "en": "Sitaram Ghimire",
+        "ne": "Sitaram Ghimire"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 99
+    },
+    {
+      "id": "central-100",
+      "name": {
+        "en": "Skyam Bahadur Khatri",
+        "ne": "Skyam Bahadur Khatri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 100
+    },
+    {
+      "id": "central-101",
+      "name": {
+        "en": "Tilak Shrestha",
+        "ne": "Tilak Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 101
+    },
+    {
+      "id": "central-102",
+      "name": {
+        "en": "Bishnu Bhat Chatri",
+        "ne": "Bishnu Bhat Chatri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 102
+    },
+    {
+      "id": "central-103",
+      "name": {
+        "en": "Nainudin Mansuri",
+        "ne": "Nainudin Mansuri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 103
+    },
+    {
+      "id": "central-104",
+      "name": {
+        "en": "Dim Kumar Dulal",
+        "ne": "Dim Kumar Dulal"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "9845097593",
+      "status": "Published",
+      "order": 104
+    },
+    {
+      "id": "central-105",
+      "name": {
+        "en": "Khadga Raj Tamang",
+        "ne": "Khadga Raj Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 105
+    },
+    {
+      "id": "central-106",
+      "name": {
+        "en": "Bhagwan Sapkota",
+        "ne": "Bhagwan Sapkota"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 106
+    },
+    {
+      "id": "central-107",
+      "name": {
+        "en": "Krishna Kumar Shrestha",
+        "ne": "Krishna Kumar Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 107
+    },
+    {
+      "id": "central-108",
+      "name": {
+        "en": "Jayaram Khatri",
+        "ne": "Jayaram Khatri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 108
+    },
+    {
+      "id": "central-109",
+      "name": {
+        "en": "Sital Tamang",
+        "ne": "Sital Tamang"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 109
+    },
+    {
+      "id": "central-110",
+      "name": {
+        "en": "Basu Sikari",
+        "ne": "Basu Sikari"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 110
+    },
+    {
+      "id": "central-111",
+      "name": {
+        "en": "Krishna Prasad Ghimire",
+        "ne": "Krishna Prasad Ghimire"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 111
+    },
+    {
+      "id": "central-112",
+      "name": {
+        "en": "Som Bahadur Magar",
+        "ne": "Som Bahadur Magar"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 112
+    },
+    {
+      "id": "central-113",
+      "name": {
+        "en": "Ram Bahadur Moktan",
+        "ne": "Ram Bahadur Moktan"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 113
+    },
+    {
+      "id": "central-114",
+      "name": {
+        "en": "Jhamka Narayan Shrestha",
+        "ne": "Jhamka Narayan Shrestha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 114
+    },
+    {
+      "id": "central-115",
+      "name": {
+        "en": "Giriraj Sankhar Rauriya",
+        "ne": "Giriraj Sankhar Rauriya"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 115
+    },
+    {
+      "id": "central-116",
+      "name": {
+        "en": "Tej Bahadur Siha",
+        "ne": "Tej Bahadur Siha"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 116
+    },
+    {
+      "id": "central-117",
+      "name": {
+        "en": "Gyanu K.C",
+        "ne": "Gyanu K.C"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 117
+    },
+    {
+      "id": "central-118",
+      "name": {
+        "en": "Ramesh Giri",
+        "ne": "Ramesh Giri"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 118
+    },
+    {
+      "id": "central-119",
+      "name": {
+        "en": "Thakar Chaulaghai",
+        "ne": "Thakar Chaulaghai"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 119
+    },
+    {
+      "id": "central-120",
+      "name": {
+        "en": "Badri Koju",
+        "ne": "Badri Koju"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 120
+    },
+    {
+      "id": "central-121",
+      "name": {
+        "en": "Shyam Kumar Tamrakar",
+        "ne": "Shyam Kumar Tamrakar"
+      },
+      "role": {
+        "en": "Member",
+        "ne": "सदस्य"
+      },
+      "category": "Central",
+      "location": {
+        "en": "Central Committee",
+        "ne": "केन्द्रीय समिति"
+      },
+      "image": "",
+      "accent": "red",
+      "phone": "",
+      "status": "Published",
+      "order": 121
+    }
+  ],
+  "notices": [
+    {
+      "id": "taxi-campaign",
+      "category": "Notice",
+      "title": {
+        "en": "Taxi organisation campaign",
+        "ne": "ट्याक्सी संगठन सुदृढीकरण अभियान"
+      },
+      "excerpt": {
+        "en": "The Valley Taxi Special Committee’s campaign leaflet and commitments. Read the original Nepali document.",
+        "ne": "उपत्यका ट्याक्सी विशेष समितिको अभियान पत्र र प्रतिबद्धताहरू। मूल नेपाली कागजात पढ्नुहोस्।"
+      },
+      "body": {
+        "en": "The Valley Taxi Special Committee’s campaign leaflet and commitments. Read the original Nepali document.",
+        "ne": "उपत्यका ट्याक्सी विशेष समितिको अभियान पत्र र प्रतिबद्धताहरू। मूल नेपाली कागजात पढ्नुहोस्।"
+      },
+      "date": "",
+      "file": "/downloads/taxi-campaign.jpg",
+      "status": "Published"
+    },
+    {
+      "id": "press-release",
+      "category": "Press release",
+      "title": {
+        "en": "Statement on the Bhotekoshi flood",
+        "ne": "भोटेकोशी बाढीसम्बन्धी प्रेस विज्ञप्ति"
+      },
+      "excerpt": {
+        "en": "The Central Committee’s statement expressing condolences and calling for rescue, relief and rehabilitation. Original Nepali scan.",
+        "ne": "खोज, उद्धार, राहत र पुनर्स्थापनाको माग गर्दै केन्द्रीय समितिले जारी गरेको शोक तथा समवेदनासहितको मूल विज्ञप्ति।"
+      },
+      "body": {
+        "en": "The Central Committee’s statement expressing condolences and calling for rescue, relief and rehabilitation. Original Nepali scan.",
+        "ne": "खोज, उद्धार, राहत र पुनर्स्थापनाको माग गर्दै केन्द्रीय समितिले जारी गरेको शोक तथा समवेदनासहितको मूल विज्ञप्ति।"
+      },
+      "date": "",
+      "file": "/downloads/press-release.jpg",
+      "status": "Published"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "shared-voice-transport-workers",
+      "slug": "shared-voice-transport-workers",
+      "title": {
+        "en": "A shared voice for transport workers.",
+        "ne": "यातायात श्रमिकहरूको साझा आवाज।"
+      },
+      "excerpt": {
+        "en": "ANTWU brings together people working across Nepal’s transport sector to defend rights, improve working conditions and strengthen solidarity.",
+        "ne": "अन्तुले नेपालका यातायात क्षेत्रमा काम गर्ने श्रमिकहरूलाई एकताबद्ध गर्दै अधिकारको रक्षा, कार्यस्थितिको सुधार र सहकार्य सुदृढ गर्छ।"
+      },
+      "body": {
+        "en": "Transport workers keep Nepal moving. The All Nepal Transport Workers’ Union brings together people working across the sector to defend their economic, social and legal rights and to advance their welfare.\n\nThe union grew from Nepal’s labour movement and the efforts of transport workers to protect their shared interests. Its official introduction records registration with the Department of Labour on 2063/12/15 BS under registration number 156.\n\nANTWU works to improve working conditions and living standards, strengthen unity across the sector, and support workers’ education, health and welfare. It also works with government and private-sector organisations on policies that affect workers, organises training and workshops, and helps mediate workplace problems.\n\nA shared voice gives workers a stronger place in the conversations that shape their lives and livelihoods.",
+        "ne": "यातायात श्रमिकहरूले नेपाललाई चलायमान राख्छन्। अखिल नेपाल यातायात मजदुर संघले यस क्षेत्रमा काम गर्ने श्रमिकहरूलाई एकताबद्ध गर्दै उनीहरूको आर्थिक, सामाजिक र कानूनी अधिकारको रक्षा तथा कल्याणका लागि काम गर्छ।\n\nश्रमिक आन्दोलन र आफ्ना साझा हितको रक्षा गर्न यातायात श्रमिकहरूले गरेको प्रयासबाट संघको विकास भएको हो। संघको आधिकारिक परिचयअनुसार यो श्रम विभागमा २०६३/१२/१५ गते दर्ता नम्बर १५६ सहित दर्ता भएको हो।\n\nअन्तुले कामको अवस्था र जीवनस्तर सुधार गर्न, यातायात क्षेत्रमा एकता बलियो बनाउन तथा श्रमिकहरूको शिक्षा, स्वास्थ्य र कल्याणमा सहयोग गर्न पहल गर्छ। श्रमिकलाई असर गर्ने नीतिका विषयमा सरकार र निजी क्षेत्रसँग समन्वय, प्रशिक्षण तथा कार्यशाला आयोजना र कार्यस्थलका समस्या समाधानमा मध्यस्थता पनि संघको काम हो।\n\nसाझा आवाजले श्रमिकहरूको जीवन र जीविकालाई आकार दिने संवादमा उनीहरूको स्थान अझ बलियो बनाउँछ।"
+      },
+      "category": {
+        "en": "Union perspective",
+        "ne": "संघको दृष्टिकोण"
+      },
+      "date": "2026-09-10",
+      "readTime": "4 min",
+      "image": "/assets/official/workers-meeting.webp",
+      "status": "Published",
+      "order": 0
+    },
+    {
+      "id": "strength-in-unity-worker-welfare",
+      "slug": "strength-in-unity-worker-welfare",
+      "title": {
+        "en": "Strength in unity, care in action.",
+        "ne": "एकतामा शक्ति, काममा सहकार्य।"
+      },
+      "excerpt": {
+        "en": "Rights, solidarity and worker welfare guide ANTWU’s work with transport workers across Nepal.",
+        "ne": "अधिकार, एकता र श्रमिक कल्याणले नेपालभर यातायात श्रमिकसँग अन्तुको कामलाई मार्गदर्शन गर्छ।"
+      },
+      "body": {
+        "en": "A strong union is built through everyday cooperation. ANTWU’s work starts with the rights of transport workers and grows through the relationships that connect workers across Nepal.\n\nThe union advocates for economic, social and legal rights while working to improve the conditions in which people earn a living. That means listening to workplace concerns, bringing workers together, and creating space for practical discussion and collective action.\n\nEducation, health and welfare are part of the same commitment. Training and workshops help workers build confidence and knowledge, while dialogue with government and private-sector organisations keeps workers’ priorities present in policy conversations.\n\nWhen transport workers stand together, the whole sector gains a clearer path toward dignity, safety and a better standard of living.",
+        "ne": "बलियो संघ दैनिक सहकार्यबाट निर्माण हुन्छ। अन्तुको काम यातायात श्रमिकहरूको अधिकारबाट सुरु हुन्छ र नेपालभरका श्रमिकहरूलाई जोड्ने सम्बन्धबाट अझ बलियो बन्छ।\n\nसंघले आर्थिक, सामाजिक र कानूनी अधिकारका लागि आवाज उठाउँदै श्रमिकहरूले जीविका चलाउने कामको अवस्था सुधार गर्न पहल गर्छ। यसको अर्थ कार्यस्थलका समस्या सुन्नु, श्रमिकहरूलाई एकताबद्ध गर्नु र व्यावहारिक छलफल तथा सामूहिक पहलका लागि ठाउँ बनाउनु हो।\n\nशिक्षा, स्वास्थ्य र कल्याण पनि यही प्रतिबद्धताको हिस्सा हुन्। प्रशिक्षण तथा कार्यशालाले श्रमिकहरूको ज्ञान र आत्मविश्वास बढाउँछन् भने सरकार र निजी क्षेत्रसँगको संवादले नीतिगत छलफलमा श्रमिकका प्राथमिकतालाई जोड दिन्छ।\n\nयातायात श्रमिकहरू एकसाथ उभिँदा सिंगो क्षेत्र सम्मान, सुरक्षा र राम्रो जीवनस्तरतर्फ स्पष्ट रूपमा अघि बढ्छ।"
+      },
+      "category": {
+        "en": "Worker welfare",
+        "ne": "श्रमिक कल्याण"
+      },
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "image": "/assets/official/union-gathering.webp",
+      "status": "Published",
+      "order": 1
+    },
+    {
+      "id": "valley-taxi-campaign-worker-voice",
+      "slug": "valley-taxi-campaign-worker-voice",
+      "title": {
+        "en": "A campaign for a stronger taxi workers’ voice.",
+        "ne": "ट्याक्सी श्रमिकहरूको बलियो आवाजका लागि अभियान।"
+      },
+      "excerpt": {
+        "en": "The Valley Taxi Special Committee’s campaign leaflet brings its commitments together for workers and the public.",
+        "ne": "उपत्यका ट्याक्सी विशेष समितिको अभियान पत्रले श्रमिक र सर्वसाधारणका लागि आफ्ना प्रतिबद्धताहरू एकै ठाउँमा राखेको छ।"
+      },
+      "body": {
+        "en": "The Valley Taxi Special Committee’s campaign leaflet gathers its campaign commitments in one place. The original Nepali document is available in ANTWU’s information library for workers and the public.\n\nMaking campaign information easy to find helps members understand the priorities being discussed and follow the union’s work. It also gives colleagues a shared reference as they organise, listen and take part in conversations about the future of taxi work.\n\nRead the original document in the Information library and share it with colleagues who need the information.",
+        "ne": "उपत्यका ट्याक्सी विशेष समितिको अभियान पत्रले अभियानका प्रतिबद्धताहरूलाई एकै ठाउँमा प्रस्तुत गरेको छ। यसको मूल नेपाली कागजात श्रमिक र सर्वसाधारणका लागि अन्तुको सूचना पुस्तकालयमा उपलब्ध छ।\n\nअभियानसम्बन्धी जानकारी सजिलै भेटिने बनाउँदा सदस्यहरूले छलफल भइरहेका प्राथमिकताहरू बुझ्न र संघको कामलाई पछ्याउन सक्छन्। ट्याक्सी कामको भविष्यबारे संगठन, सुन्ने र संवादमा सहभागी हुने क्रममा यसले सहकर्मीहरूका लागि साझा सन्दर्भ पनि उपलब्ध गराउँछ।\n\nसूचना पुस्तकालयमा मूल कागजात पढ्नुहोस् र आवश्यक जानकारी भएका सहकर्मीहरूसँग साझा गर्नुहोस्।"
+      },
+      "category": {
+        "en": "Campaign",
+        "ne": "अभियान"
+      },
+      "date": "2026-09-10",
+      "readTime": "2 min",
+      "image": "/assets/official/taxi-campaign.webp",
+      "status": "Published",
+      "order": 2
+    },
+    {
+      "id": "bhotekoshi-flood-solidarity",
+      "slug": "bhotekoshi-flood-solidarity",
+      "title": {
+        "en": "Standing together after the Bhotekoshi flood.",
+        "ne": "भोटेकोशी बाढीपछि एकताको साथ।"
+      },
+      "excerpt": {
+        "en": "ANTWU’s Central Committee statement expresses condolences and calls for rescue, relief and rehabilitation.",
+        "ne": "अन्तुको केन्द्रीय समितिको विज्ञप्तिले समवेदना व्यक्त गर्दै खोज, उद्धार, राहत र पुनर्स्थापनाको माग गर्छ।"
+      },
+      "body": {
+        "en": "ANTWU’s Central Committee published a statement on the Bhotekoshi flood expressing condolences and calling for rescue, relief and rehabilitation.\n\nThe statement reflects the union’s responsibility to stand with people facing hardship and to keep urgent concerns visible. Rescue and relief require attention, coordination and a commitment to rehabilitation after the immediate crisis.\n\nThe original Nepali scan is available in the Information library so workers, members and the wider public can read the committee’s words directly.",
+        "ne": "अन्तुको केन्द्रीय समितिले भोटेकोशी बाढीसम्बन्धी विज्ञप्ति प्रकाशित गर्दै समवेदना व्यक्त गरेको र खोज, उद्धार, राहत तथा पुनर्स्थापनाको माग गरेको छ।\n\nयो विज्ञप्तिले कठिनाइ सामना गरिरहेका मानिसहरूसँग उभिने र अत्यावश्यक सरोकारलाई सार्वजनिक ध्यानमा राख्ने संघको जिम्मेवारी झल्काउँछ। तत्कालको संकटपछि खोज तथा उद्धार, राहत र पुनर्स्थापनाका लागि निरन्तर ध्यान, समन्वय र प्रतिबद्धता आवश्यक हुन्छ।\n\nकेन्द्रीय समितिका शब्दहरू प्रत्यक्ष पढ्न सकियोस् भनेर मूल नेपाली स्क्यान सूचना पुस्तकालयमा उपलब्ध छ।"
+      },
+      "category": {
+        "en": "Press release",
+        "ne": "प्रेस विज्ञप्ति"
+      },
+      "date": "2026-09-10",
+      "readTime": "2 min",
+      "image": "/assets/official/office-meeting.webp",
+      "status": "Published",
+      "order": 3
+    }
+  ],
+  "galleryItems": [
+    {
+      "id": "union-gathering",
+      "title": {
+        "en": "Union members together",
+        "ne": "एकसाथ संघका सदस्यहरू"
+      },
+      "image": "/assets/official/union-gathering.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 0
+    },
+    {
+      "id": "taxi-outreach-1",
+      "title": {
+        "en": "Meeting transport workers",
+        "ne": "यातायात श्रमिकसँग भेटघाट"
+      },
+      "image": "/assets/official/taxi-outreach-1.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 1
+    },
+    {
+      "id": "taxi-outreach-2",
+      "title": {
+        "en": "Conversations on the road",
+        "ne": "सडकमा संवाद"
+      },
+      "image": "/assets/official/taxi-outreach-2.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 2
+    },
+    {
+      "id": "workers-meeting",
+      "title": {
+        "en": "Workers in discussion",
+        "ne": "छलफलमा श्रमिकहरू"
+      },
+      "image": "/assets/official/workers-meeting.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 3
+    },
+    {
+      "id": "taxi-delegation-1",
+      "title": {
+        "en": "Taxi workers together",
+        "ne": "एकसाथ ट्याक्सी श्रमिकहरू"
+      },
+      "image": "/assets/official/taxi-delegation-1.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 4
+    },
+    {
+      "id": "outdoor-discussion",
+      "title": {
+        "en": "A conversation among members",
+        "ne": "सदस्यहरूबीच संवाद"
+      },
+      "image": "/assets/official/outdoor-discussion.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 5
+    },
+    {
+      "id": "taxi-delegation-2",
+      "title": {
+        "en": "Transport workers gathering",
+        "ne": "यातायात श्रमिकहरूको भेटघाट"
+      },
+      "image": "/assets/official/taxi-delegation-2.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 6
+    },
+    {
+      "id": "office-meeting",
+      "title": {
+        "en": "Discussion at the union office",
+        "ne": "संघ कार्यालयमा छलफल"
+      },
+      "image": "/assets/official/office-meeting.webp",
+      "type": "photo",
+      "size": "wide",
+      "status": "Published",
+      "order": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "taxi-campaign",
+      "category": "Publications",
+      "title": {
+        "en": "Taxi organisation campaign",
+        "ne": "ट्याक्सी संगठन सुदृढीकरण अभियान"
+      },
+      "description": {
+        "en": "The Valley Taxi Special Committee’s campaign leaflet and commitments. Read the original Nepali document.",
+        "ne": "उपत्यका ट्याक्सी विशेष समितिको अभियान पत्र र प्रतिबद्धताहरू। मूल नेपाली कागजात पढ्नुहोस्।"
+      },
+      "date": "",
+      "type": "JPG",
+      "size": "123 KB",
+      "image": "/assets/official/taxi-campaign.webp",
+      "file": "/downloads/taxi-campaign.jpg",
+      "status": "Published"
+    },
+    {
+      "id": "press-release",
+      "category": "Press releases",
+      "title": {
+        "en": "Statement on the Bhotekoshi flood",
+        "ne": "भोटेकोशी बाढीसम्बन्धी प्रेस विज्ञप्ति"
+      },
+      "description": {
+        "en": "The Central Committee’s statement expressing condolences and calling for rescue, relief and rehabilitation. Original Nepali scan.",
+        "ne": "खोज, उद्धार, राहत र पुनर्स्थापनाको माग गर्दै केन्द्रीय समितिले जारी गरेको शोक तथा समवेदनासहितको मूल विज्ञप्ति।"
+      },
+      "date": "",
+      "type": "JPG",
+      "size": "111 KB",
+      "image": "/assets/official/press-release.webp",
+      "file": "/downloads/press-release.jpg",
+      "status": "Published"
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": "hero-main",
+      "kicker": {
+        "en": "All Nepal Transport Workers’ Union",
+        "ne": "अखिल नेपाल यातायात मजदुर संघ"
+      },
+      "title": {
+        "en": "Together, we move Nepal.",
+        "ne": "हामी सँगै, नेपाल अघि बढ्छ।"
+      },
+      "sub": {
+        "en": "Standing together for the rights, dignity and welfare of the people who keep our country moving.",
+        "ne": "देशलाई चलायमान राख्ने श्रमिकहरूको अधिकार, सम्मान र हितका लागि एकसाथ।"
+      },
+      "image": "/assets/official/union-gathering.webp",
+      "status": "Published"
+    }
+  ],
+  "activities": [],
+  "pages": [
+    {
+      "id": "about",
+      "title": {
+        "en": "A shared voice for transport workers.",
+        "ne": "यातायात श्रमिकहरूको साझा आवाज।"
+      },
+      "body": {
+        "en": "The All Nepal Transport Workers’ Union brings together people working in Nepal’s transport sector to defend their rights, advance their welfare and strengthen solidarity.\n\nOur history\nThe union grew from Nepal’s labour movement and the efforts of transport workers to protect their rights and interests. The union’s official introduction records its registration with the Department of Labour on 2063/12/15 BS, registration number 156.\n\nOur objectives\n1. Protect the economic, social and legal rights of transport workers.\n2. Improve working conditions and workers’ living standards.\n3. Strengthen unity and cooperation across the transport sector.\n4. Support workers’ education, health and welfare.\n\nOur work\nWe advocate for workers’ rights, work with government and private-sector organisations on policies affecting workers, organise training and workshops, and mediate to help resolve workplace problems.\n\nThrough this work, ANTWU seeks to improve the lives of transport workers and protect their rights across Nepal.",
+        "ne": "अखिल नेपाल यातायात मजदुर संघ (All Nepal Transport Workers’ Union) नेपालमा यातायात क्षेत्रमा काम गर्ने मजदुरहरूको हित र अधिकारको रक्षा गर्ने उद्देश्यले स्थापित एक श्रमिक संगठन हो। यो संघ नेपालमा यातायात मजदुरहरूको एकता, अधिकार, र कल्याणका लागि काम गर्दछ।\n\nस्थापना इतिहास\nअखिल नेपाल यातायात मजदुर संघको स्थापना नेपालमा श्रमिक आन्दोलनको ऐतिहासिक पृष्ठभूमिमा भएको हो। नेपालमा श्रमिक संघहरूको उदय २०औं शताब्दीको मध्यदेखि भएको थियो। संघ दर्ता २०६३/१२/१५ गते भएको र दर्ता नम्बर १५६ श्रम विभागमा दर्ता भएको देखिन्छ। यातायात क्षेत्रमा काम गर्ने मजदुरहरूले आफ्नो अधिकार र हितको रक्षा गर्ने उद्देश्यले यो संघ स्थापना गरेका हुन्।\n\nउद्देश्य\n१. यातायात मजदुरहरूको आर्थिक, सामाजिक, र कानूनी अधिकारको रक्षा गर्नु।\n२. मजदुरहरूको कामको स्थिति र जीवनस्तरमा सुधार ल्याउनु।\n३. यातायात क्षेत्रमा काम गर्ने मजदुरहरू बीच एकता र सहकार्य बढाउनु।\n४. मजदुरहरूको शिक्षा, स्वास्थ्य, र कल्याणका लागि कार्यक्रमहरू सञ्चालन गर्नु।\n\nगतिविधिहरू\nमजदुरहरूको अधिकारका लागि आवाज उठाउनु। सरकार र निजी क्षेत्रसँग समन्वय गरी मजदुरहरूको हितमा नीतिहरू बनाउनु। मजदुरहरूको क्षमता विकासका लागि प्रशिक्षण र कार्यशाला आयोजना गर्नु। मजदुरहरूको समस्या समाधानका लागि मध्यस्थता गर्नु।\n\nअखिल नेपाल यातायात मजदुर संघले नेपालमा यातायात क्षेत्रमा काम गर्ने मजदुरहरूको जीवनस्तरमा सुधार ल्याउने र उनीहरूको अधिकारको रक्षा गर्ने महत्वपूर्ण भूमिका खेलिरहेको छ।"
+      },
+      "image": "/assets/official/workers-meeting.webp",
+      "status": "Published"
+    },
+    {
+      "id": "chairperson",
+      "title": {
+        "en": "Message from the chairperson",
+        "ne": "अध्यक्षको सन्देश"
+      },
+      "body": {
+        "en": "A message from the chairperson will be published here when it is available. Please contact the union office for current information.",
+        "ne": "अध्यक्षको सन्देश उपलब्ध भएपछि यहाँ प्रकाशन गरिनेछ। हालको जानकारीका लागि संघ कार्यालयमा सम्पर्क गर्नुहोस्।"
+      },
+      "image": "",
+      "status": "Published"
+    }
+  ],
+  "stats": [
+    {
+      "id": "central-count",
+      "value": 121,
+      "label": {
+        "en": "Central committee members",
+        "ne": "केन्द्रीय समिति सदस्यहरू"
+      },
+      "suffix": "",
+      "status": "Published"
+    },
+    {
+      "id": "committee-levels",
+      "value": 5,
+      "label": {
+        "en": "Committee categories",
+        "ne": "समितिका प्रकार"
+      },
+      "suffix": "",
+      "status": "Published"
+    }
+  ],
+  "values": [
+    {
+      "id": "rights",
+      "icon": "shield",
+      "number": "01",
+      "title": {
+        "en": "Rights at work",
+        "ne": "कार्यस्थलमा अधिकार"
+      },
+      "body": {
+        "en": "Defending the economic, social and legal rights of transport workers.",
+        "ne": "यातायात मजदुरहरूको आर्थिक, सामाजिक र कानूनी अधिकारको रक्षा।"
+      },
+      "status": "Published"
+    },
+    {
+      "id": "solidarity",
+      "icon": "users",
+      "number": "02",
+      "title": {
+        "en": "Strength in unity",
+        "ne": "एकतामा शक्ति"
+      },
+      "body": {
+        "en": "Building cooperation and a shared voice throughout the transport sector.",
+        "ne": "यातायात क्षेत्रमा सहकार्य र साझा आवाजको निर्माण।"
+      },
+      "status": "Published"
+    },
+    {
+      "id": "welfare",
+      "icon": "heart",
+      "number": "03",
+      "title": {
+        "en": "Worker welfare",
+        "ne": "श्रमिक कल्याण"
+      },
+      "body": {
+        "en": "Supporting better working conditions, education, health and living standards.",
+        "ne": "राम्रो कार्यस्थिति, शिक्षा, स्वास्थ्य र जीवनस्तरका लागि सहयोग।"
+      },
+      "status": "Published"
+    }
+  ],
+  "settings": [
+    {
+      "id": "site-settings",
+      "address": {
+        "en": "Peris Dada, Koteshwor–32, Kathmandu",
+        "ne": "पेरिस डाडा, कोटेश्वर–३२, काठमाडौं"
+      },
+      "phone": "01-4602758",
+      "email": "unionant2008@gmail.com",
+      "mission": {
+        "en": "United for the rights, dignity and welfare of Nepal’s transport workers.",
+        "ne": "नेपालका यातायात श्रमिकहरूको अधिकार, सम्मान र कल्याणका लागि एकजुट।"
+      },
+      "siteTitle": {
+        "en": "All Nepal Transport Workers’ Union",
+        "ne": "अखिल नेपाल यातायात मजदुर संघ"
+      },
+      "description": {
+        "en": "Official ANTWU website: committee directory, union updates, publications, gallery and membership registration.",
+        "ne": "अखिल नेपाल यातायात मजदुर संघको आधिकारिक वेबसाइट: समिति निर्देशिका, सूचना, प्रकाशन, ग्यालरी र सदस्यता दर्ता।"
+      }
+    }
+  ]
+}

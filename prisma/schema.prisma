@@ -1,0 +1,275 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum AdminRole {
+  SUPER_ADMIN
+  EDITOR
+}
+
+enum PublishStatus {
+  DRAFT
+  PUBLISHED
+}
+
+enum CommitteeCategory {
+  CENTRAL
+  PROVINCE
+  DISTRICT
+  UNIT
+  INTERNATIONAL
+}
+
+enum UpdateCategory {
+  NOTICE
+  PRESS_RELEASE
+  TENDER
+  NEWS
+  OTHER
+}
+
+enum ApplicationStatus {
+  NEW
+  REVIEWED
+  APPROVED
+  REJECTED
+}
+
+model User {
+  id           String    @id @default(cuid())
+  name         String
+  email        String    @unique
+  passwordHash String
+  role         AdminRole @default(EDITOR)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  posts        BlogPost[]
+}
+
+model SiteSettings {
+  id             String   @id @default(cuid())
+  logoUrl        String?
+  faviconUrl     String?
+  addressEn      String
+  addressNe      String
+  phone          String
+  email          String
+  footerMissionEn String
+  footerMissionNe String
+  mapEmbedUrl    String?
+  seoTitleEn     String?
+  seoTitleNe     String?
+  seoDescriptionEn String?
+  seoDescriptionNe String?
+  updatedAt      DateTime @updatedAt
+}
+
+model HeroSlide {
+  id          String        @id @default(cuid())
+  imageUrl    String
+  titleEn     String
+  titleNe     String
+  subtitleEn  String
+  subtitleNe  String
+  link        String?
+  status      PublishStatus @default(PUBLISHED)
+  displayOrder Int          @default(0)
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+}
+
+model AboutContent {
+  id           String   @id @default(cuid())
+  introEn      String
+  introNe      String
+  historyEn    String
+  historyNe    String
+  objectivesEn String
+  objectivesNe String
+  activitiesEn String
+  activitiesNe String
+  updatedAt    DateTime @updatedAt
+}
+
+model ValueCard {
+  id        String   @id @default(cuid())
+  key       String   @unique
+  icon      String
+  titleEn   String
+  titleNe   String
+  bodyEn    String
+  bodyNe    String
+  order     Int      @default(0)
+  updatedAt DateTime @updatedAt
+}
+
+model OrganizationNode {
+  id        String              @id @default(cuid())
+  nameEn    String
+  nameNe    String
+  titleEn   String
+  titleNe   String
+  parentId  String?
+  parent    OrganizationNode?  @relation("OrgTree", fields: [parentId], references: [id])
+  children  OrganizationNode[] @relation("OrgTree")
+  order     Int                 @default(0)
+}
+
+model CommitteeMember {
+  id          String             @id @default(cuid())
+  nameEn      String
+  nameNe      String
+  designationEn String
+  designationNe String
+  category    CommitteeCategory
+  provinceEn  String?
+  provinceNe  String?
+  districtEn  String?
+  districtNe  String?
+  imageUrl    String?
+  phone       String?
+  email       String?
+  order       Int                @default(0)
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+}
+
+model ChairMessage {
+  id          String   @id @default(cuid())
+  portraitUrl String?
+  messageEn   String
+  messageNe   String
+  signature   String?
+  updatedAt   DateTime @updatedAt
+}
+
+model GalleryAlbum {
+  id          String        @id @default(cuid())
+  titleEn     String
+  titleNe     String
+  descriptionEn String?
+  descriptionNe String?
+  createdAt   DateTime      @default(now())
+  items       GalleryItem[]
+}
+
+model GalleryItem {
+  id        String       @id @default(cuid())
+  albumId   String?
+  album     GalleryAlbum? @relation(fields: [albumId], references: [id])
+  type      String       @default("photo")
+  titleEn   String
+  titleNe   String
+  mediaUrl  String
+  thumbUrl  String?
+  captionEn String?
+  captionNe String?
+  order     Int          @default(0)
+  createdAt DateTime     @default(now())
+}
+
+model Activity {
+  id          String   @id @default(cuid())
+  titleEn     String
+  titleNe     String
+  descriptionEn String
+  descriptionNe String
+  date        DateTime
+  imageUrl    String?
+  createdAt   DateTime @default(now())
+}
+
+model Statistic {
+  id        String   @id @default(cuid())
+  labelEn   String
+  labelNe   String
+  value     Int
+  suffix    String?
+  icon      String?
+  order     Int      @default(0)
+  updatedAt DateTime @updatedAt
+}
+
+model Document {
+  id          String   @id @default(cuid())
+  category    String
+  titleEn     String
+  titleNe     String
+  descriptionEn String?
+  descriptionNe String?
+  fileUrl     String
+  fileType    String
+  fileSize    String?
+  publishDate DateTime
+  downloadCount Int    @default(0)
+  status      PublishStatus @default(PUBLISHED)
+  createdAt   DateTime @default(now())
+}
+
+model Update {
+  id          String         @id @default(cuid())
+  category    UpdateCategory
+  titleEn     String
+  titleNe     String
+  excerptEn   String?
+  excerptNe   String?
+  bodyEn      String?
+  bodyNe      String?
+  fileUrl     String?
+  urgent      Boolean        @default(false)
+  expiryDate  DateTime?
+  publishDate DateTime        @default(now())
+  status      PublishStatus  @default(PUBLISHED)
+  createdAt   DateTime       @default(now())
+}
+
+model BlogPost {
+  id          String        @id @default(cuid())
+  slug        String        @unique
+  titleEn     String
+  titleNe     String
+  excerptEn   String
+  excerptNe   String
+  bodyEn      String
+  bodyNe      String
+  featuredImageUrl String?
+  categoryEn  String?
+  categoryNe  String?
+  tags        String[]
+  status      PublishStatus @default(DRAFT)
+  publishDate DateTime?
+  authorId    String?
+  author      User?         @relation(fields: [authorId], references: [id])
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+}
+
+model ContactMessage {
+  id          String   @id @default(cuid())
+  name        String
+  email       String
+  phone       String?
+  subject     String
+  message     String
+  isRead      Boolean  @default(false)
+  isArchived  Boolean  @default(false)
+  submittedAt DateTime @default(now())
+}
+
+model MembershipApplication {
+  id          String            @id @default(cuid())
+  name        String
+  email       String?
+  phone       String
+  workArea    String
+  province    String
+  district    String
+  note        String?
+  status      ApplicationStatus @default(NEW)
+  submittedAt DateTime          @default(now())
+}
