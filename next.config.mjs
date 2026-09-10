@@ -2,6 +2,9 @@
 const nextConfig = {
   poweredByHeader: false,
   images: { formats: ['image/avif', 'image/webp'] },
+  async rewrites() {
+    return [{ source: '/500', destination: '/server-error' }];
+  },
   async headers() {
     return [{ source: '/:path*', headers: [
       { key: 'X-Content-Type-Options', value: 'nosniff' },
