@@ -79,4 +79,37 @@ export function PublicFooter() {
   const row = useContent().settings[0]; const { lang } = useLanguage();
   return <footer className="footer"><div className="container"><div className="footer-top"><div className="footer-brand"><Link href="/" aria-label="ANTWU home"><BrandLockup inverse /></Link>{row?.mission && <p><L value={row.mission} /></p>}<div className="footer-social">{row?.facebook && <a href={row.facebook} aria-label="Facebook"><Facebook size={18} /></a>}{row?.instagram && <a href={row.instagram} aria-label="Instagram"><Instagram size={18} /></a>}</div></div><div><h2><L value={{ en: 'The union', ne: 'संघ' }} /></h2><div className="footer-list"><Link href="/about"><L value={{ en: 'About ANTWU', ne: 'अन्तुको परिचय' }} /></Link><Link href="/committee"><L value={{ en: 'Our committee', ne: 'हाम्रो समिति' }} /></Link><Link href="/activities"><L value={{ en: 'Activities', ne: 'गतिविधि' }} /></Link><Link href="/membership"><L value={{ en: 'Membership', ne: 'सदस्यता' }} /></Link></div></div><div><h2><L value={{ en: 'Stay informed', ne: 'जानकारी लिनुहोस्' }} /></h2><div className="footer-list"><Link href="/updates"><L value={{ en: 'Updates & notices', ne: 'अपडेट र सूचना' }} /></Link><Link href="/documents"><L value={{ en: 'Documents', ne: 'कागजात' }} /></Link><Link href="/gallery"><L value={{ en: 'Photo & video gallery', ne: 'फोटो र भिडियो ग्यालरी' }} /></Link><Link href="/blog"><L value={{ en: 'Blog', ne: 'ब्लग' }} /></Link><Link href="/faq"><L value={{ en: 'FAQ', ne: 'बारम्बार सोधिने प्रश्नहरू' }} /></Link></div></div><div><h2><L value={{ en: 'Get in touch', ne: 'सम्पर्कमा रहनुहोस्' }} /></h2><address className="footer-contact">{row?.address && <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(row.address.en)}`} target="_blank" rel="noreferrer"><MapPin size={16} /><span>{text(row.address, lang)}</span></a>}{row?.phone && <a href={`tel:${row.phone.replace(/[^+\d]/g, '')}`}><Phone size={16} /><span>{row.phone}</span></a>}{row?.email && <a href={`mailto:${row.email}`}><Mail size={16} /><span>{row.email}</span></a>}</address><Link href="/contact" className="footer-contact-link"><L value={{ en: 'Contact the office', ne: 'कार्यालयमा सम्पर्क गर्नुहोस्' }} /><ArrowRight size={16} /></Link></div></div><div className="footer-bottom"><span>© {new Date().getFullYear()} ANTWU. <L value={{ en: 'All rights reserved.', ne: 'सर्वाधिकार सुरक्षित।' }} /></span><span lang="ne">अखिल नेपाल यातायात मजदुर संघ</span><nav className="footer-legal" aria-label={lang === 'ne' ? 'कानूनी पृष्ठहरू' : 'Legal pages'}><Link href="/privacy-policy"><L value={{ en: 'Privacy', ne: 'गोपनीयता' }} /></Link><Link href="/terms-and-conditions"><L value={{ en: 'Terms', ne: 'सर्तहरू' }} /></Link><Link href="/contact-us"><L value={{ en: 'Contact us', ne: 'सम्पर्क' }} /></Link></nav><a className="footer-credit" href="https://www.aashatech.com/" target="_blank" rel="noreferrer"><span><L value={{ en: 'Powered by', ne: 'द्वारा सञ्चालित' }} /></span><span className="footer-credit-logo"><Image src="/assets/aashatech-logo.png" alt="AashaTech" width={136} height={66} /></span></a><Link href="/admin/login"><L value={{ en: 'Office login', ne: 'कार्यालय लगइन' }} /></Link></div></div></footer>;
 }
-export function PublicShell({ children }: { children: React.ReactNode }) { return <><PublicHeader /><div id="main-content" tabIndex={-1}>{children}</div><PublicFooter /></>; }
+export function PublicShell({ children }: { children: React.ReactNode }) {
+  useEffect(() => {
+    const onAnchorClick = (event: MouseEvent) => {
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      const anchor = (event.target as HTMLElement).closest<HTMLAnchorElement>('a[href^="#"]');
+      const href = anchor?.getAttribute('href');
+      if (!anchor || !href || href === '#') return;
+      const target = document.getElementById(decodeURIComponent(href.slice(1)));
+      if (!target || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      event.preventDefault();
+      const start = window.scrollY;
+      const headerHeight = document.querySelector<HTMLElement>('.site-header')?.getBoundingClientRect().height || 0;
+      const destination = Math.max(0, target.getBoundingClientRect().top + start - Math.min(headerHeight, 96));
+      const distance = destination - start;
+      const duration = Math.min(1100, Math.max(640, Math.abs(distance) * 0.55));
+      const root = document.documentElement;
+      const previousScrollBehavior = root.style.scrollBehavior;
+      root.style.scrollBehavior = 'auto';
+      let began = 0;
+      const ease = (value: number) => value < .5 ? 4 * value * value * value : 1 - Math.pow(-2 * value + 2, 3) / 2;
+      const step = (time: number) => {
+        if (!began) began = time;
+        const progress = Math.min(1, (time - began) / duration);
+        window.scrollTo({ top: start + distance * ease(progress), behavior: 'auto' });
+        if (progress < 1) requestAnimationFrame(step);
+        else { root.style.scrollBehavior = previousScrollBehavior; history.replaceState(null, '', href); target.focus({ preventScroll: true }); }
+      };
+      requestAnimationFrame(step);
+    };
+    document.addEventListener('click', onAnchorClick);
+    return () => document.removeEventListener('click', onAnchorClick);
+  }, []);
+  return <><PublicHeader /><div id="main-content" tabIndex={-1}>{children}</div><PublicFooter /></>;
+}

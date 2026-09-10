@@ -38,7 +38,8 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; overflow-x: clip; }
+/* Anchor navigation is animated by the public shell so its duration stays calm and consistent. */
+html { scroll-behavior: auto; overflow-x: clip; }
 body { margin: 0; color: var(--color-ink); background: var(--color-paper); font-family: var(--latin); font-size: 16px; line-height: 1.6; overflow-x: clip; }
 body:lang(ne), [lang="ne"] { font-family: var(--dev), var(--latin); }
 a { color: inherit; text-decoration: none; }
