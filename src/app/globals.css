@@ -2712,6 +2712,80 @@ h1, h2, h3 { text-wrap: balance; }
   .hero-image img, .value-card, .person-card, .blog-card, .gallery-grid-item, .gallery-preview-grid a, .quick-links a, .text-link, .button { transition: none !important; }
 }
 
+/* Reference topbar: social handles and the Kathmandu office location. */
+.utility-strip {
+  color: #0d168c;
+  background: #fff;
+  border-top: 3px solid #4e3a45;
+  border-bottom: 1px solid #e6e6ec;
+  font-size: 12px;
+}
+.utility-inner {
+  min-height: 60px;
+  padding: 8px 0;
+  gap: 20px;
+}
+.utility-social,
+.utility-actions,
+.utility-location {
+  display: flex;
+  align-items: center;
+}
+.utility-social { gap: 20px; }
+.utility-social a {
+  width: 28px;
+  height: 28px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-radius: 4px;
+  color: #0d168c;
+  background: transparent;
+  transition: color 180ms ease, transform 180ms ease;
+}
+.utility-social a:hover,
+.utility-social a:focus-visible {
+  color: var(--color-red);
+  background: transparent;
+  border-color: transparent;
+  transform: translateY(-2px);
+}
+.utility-social a:first-child svg,
+.utility-social a:last-child svg { fill: currentColor; }
+.utility-actions { margin-left: auto; gap: 18px; }
+.utility-location {
+  gap: 7px;
+  color: #0d168c;
+  font-size: clamp(13px, 1.3vw, 16px);
+  font-weight: 650;
+  line-height: 1.3;
+  white-space: nowrap;
+}
+.utility-location:hover,
+.utility-location:focus-visible { color: var(--color-red); }
+.utility-location svg { flex: 0 0 auto; }
+.utility-strip .language-switcher {
+  border-color: rgba(13, 22, 140, .2);
+  background: #fff;
+}
+.utility-strip .language-switcher button { color: #0d168c; }
+.utility-strip .language-switcher button.active { color: #fff; background: #0d168c; }
+
+@media (max-width: 760px) {
+  .utility-inner { min-height: 58px; gap: 10px 16px; }
+  .utility-social { gap: 14px; }
+  .utility-actions { gap: 11px; }
+  .utility-location { font-size: 12px; }
+  .utility-location span { max-width: 150px; overflow: hidden; text-overflow: ellipsis; }
+}
+
+@media (max-width: 430px) {
+  .utility-inner { width: min(calc(100% - 28px), var(--max-width)); }
+  .utility-social { gap: 9px; }
+  .utility-actions { gap: 8px; }
+  .utility-location span { max-width: 122px; }
+}
+
 
 /* Final CTA asset blend */
 .cta-flag { mix-blend-mode: multiply; opacity: 1; }
