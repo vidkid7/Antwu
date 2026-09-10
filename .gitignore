@@ -26,3 +26,5 @@ imagesss/
 qa-*.png
 reference-*.png
 *.tsbuildinfo
+
+.vercel
