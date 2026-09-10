@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/500", "destination": "/server-error" }
+  "redirects": [
+    { "source": "/500", "destination": "/server-error", "permanent": false }
   ]
 }
