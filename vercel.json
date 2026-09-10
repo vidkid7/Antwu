@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/500", "destination": "/server-error" }
+  ]
+}
