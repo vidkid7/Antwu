@@ -3089,9 +3089,9 @@ h1, h2, h3 { text-wrap: balance; }
   height: 64px;
   padding: 6px 10px;
   overflow: hidden;
-  border-radius: 7px;
-  background: #fff;
-  transition: transform 180ms ease, box-shadow 180ms ease;
+  border-radius: 0;
+  background: transparent;
+  transition: transform 180ms ease;
 }
 .footer-credit-logo img {
   display: block;
@@ -3103,7 +3103,6 @@ h1, h2, h3 { text-wrap: balance; }
 .footer-credit:hover .footer-credit-logo,
 .footer-credit:focus-visible .footer-credit-logo {
   transform: translateY(-2px);
-  box-shadow: 0 5px 14px rgba(23, 23, 23, .13);
 }
 
 @media (max-width: 1100px) {
